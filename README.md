@@ -20,11 +20,11 @@
 ### 🛠️ Languages & Technical Skills
 ✨ *Languages, tools, and environments I use to build automated security solutions:*
 
-[![C#](https://shields.io)](#)
-[![.NET](https://shields.io)](#)
-[![Python](https://shields.io)](#)
-[![Lua](https://shields.io)](#)
-[![JSON](https://shields.io)](#)
+![C#](https://shields.io)
+![.NET](https://shields.io)
+![Python](https://shields.io)
+![Lua](https://shields.io)
+![JSON](https://shields.io)
 
 ### 🧠 Core Interests
 🛡️ **Cybersecurity & Penetration Testing** | ⚙️ **Workflow Automation** | 🤖 **AI Technology** | 🎨 **UI/UX & Graphic Design**
