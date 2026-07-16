@@ -27,7 +27,7 @@ I'm building tools to ease workflow in cybersecurity, penertration testings and 
 
 ## 💻 About Me
 
-- 🖥️ Begineer Cybersecurity Analyist
+- 🖥️ Beginner Cybersecurity Analyist
 - 🔭 Providing Cybersecurity projects to enhance workflow
 - 🌱 Enthusiastic about **automation**, **optimizing workflows**, and **enhancing efficiency**.
 - 📫 Reach me at **jake.cybersec@outlook.com**
