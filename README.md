@@ -1,35 +1,36 @@
-<h1 align="center">👋 Hey, I'm Jake</h1>
+<h1 align="center">👋 Hey, I'm Jake</h1> 
 
-<p align="center">
-🎯 Self-Taught Cybersecurity Specalist | 🤖 Automation Enthusiast | 🔍 Problem Solver
+<p align="center"> 
+  🎯 <b>Self-Taught Cybersecurity Specialist</b> | 🤖 <b>Automation Enthusiast</b> | 🔍 <b>Problem Solver</b>
 </p>
 
 <p align="center">
-I'm building tools to ease workflow in cybersecurity, penertration testings and more!
+  I design and engineer automated tools to streamline workflows in cybersecurity and penetration testing.
 </p>
 
+---
 
-## 💻 About Me
+### 💻 About Me
+* 🖥️ **Aspiring Cybersecurity Analyst** based in Brisbane, Australia.
+* 🔭 **Current Focus:** Developing open-source tools to automate offensive security workflows.
+* 🛠️ **Latest Project:** Designing a custom ESP32 + GPS wardriving hardware appliance to map localized network security vulnerabilities.
+* 🌱 **Passionate about:** Automation architecture, firmware development, and workflow optimization.
+* 📫 **Let's Connect:** Reach me directly via email at [jake.cybersec@outlook.com](mailto:jake.cybersec@outlook.com).
 
-- 🖥️ Begineer Cybersecurity Analyist
-- 🔭 Providing Cybersecurity projects to enhance workflow
-- 🌱 Enthusiastic about **automation**, **optimizing workflows**, and **enhancing efficiency**.
-- 📫 Reach me at **jake.cybersec@outlook.com**
+### 🛠️ Languages & Technical Skills
+✨ *Languages, tools, and environments I use to build automated security solutions:*
 
-### 🛠️ Key Skills
+[![C#](https://shields.io)](#)
+[![.NET](https://shields.io)](#)
+[![Python](https://shields.io)](#)
+[![Lua](https://shields.io)](#)
+[![JSON](https://shields.io)](#)
 
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-00599C)](#)
-[![Lua](https://img.shields.io/badge/Lua-1E75B6)](#)
-[![Automation](https://img.shields.io/badge/Automation-E63946)](#)
-[![.NET](https://img.shields.io/badge/.NET-6C2DC7)](#)
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF)](#)
-[![JSON](https://img.shields.io/badge/JSON-F69C00)](#)
+### 🧠 Core Interests
+🛡️ **Cybersecurity & Penetration Testing** | ⚙️ **Workflow Automation** | 🤖 **AI Technology** | 🎨 **UI/UX & Graphic Design**
 
-### 🧠 Interests
+---
 
-[![Business Development](https://img.shields.io/badge/Business%20Development-0077B5)](#)
-[![Cyber Security](https://img.shields.io/badge/Cyber%20Security-121212)](#)
-[![Automation](https://img.shields.io/badge/Automation-E63946)](#)
-[![AI](https://img.shields.io/badge/AI-14A76C)](#)
-[![Graphic Design](https://img.shields.io/badge/Graphic%20Design-673AB7)](#)
-
+<p align="center">
+  <sub>Built by Jake • Driven by Automation</sub>
+</p>
