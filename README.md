@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Hey, I'm Jake</h1>
+<h1 align="center">👋 Hey There, I'm Jake</h1>
 
 <p align="center">
 🎯 Self-Taught Cybersecurity Specalist | 🤖 Automation Enthusiast | 🔍 Problem Solver
