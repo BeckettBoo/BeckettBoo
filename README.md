@@ -1,5 +1,5 @@
 <img width="1792" height="592" alt="banner" src="https://github.com/user-attachments/assets/efe1c2d2-1499-4b8b-ae79-e9204b208e4d" />
-## Hi there 👋
+
 
 <!--
 **BeckettBoo/BeckettBoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
