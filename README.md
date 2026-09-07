@@ -1,47 +1,69 @@
-<img width="1792" height="592" alt="banner" src="https://github.com/user-attachments/assets/efe1c2d2-1499-4b8b-ae79-e9204b208e4d" />
+<p align="center">
+  <img src="banner.png" alt="Jake's GitHub Banner" width="100%">
+</p>
 
-
-<!--
-**BeckettBoo/BeckettBoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <h1 align="center">👋 Hey There, I'm Jake</h1>
-
 <p align="center">
-🎯 Self-Taught Cybersecurity Specialist | 🤖 Automation Enthusiast | 📱 Cross-Platform Developer
+  <strong>🚀 Self-Taught Cybersecurity Specialist | 🤖 Automation Enthusiast | 📱 Cross-Platform Developer</strong>
+</p>
+<p align="center">
+  <em>I'm building tools to optimize digital workflows, streamline cybersecurity operations, and engineer modern mobile experiences!</em>
 </p>
 
-<p align="center">
-I'm building tools to optimize digital workflows, streamline cybersecurity operations, and engineer modern mobile experiences!
-</p>
+---
 
-## 🚀 Featured Project
+### 🚀 Featured Project
 
-### 📱 **GainLine**
-I am currently engineering **GainLine**, a high-performance athletic conditioning and fitness tracking mobile application.
+<div align="center">
+  <h2>🏋️‍♂️ GainLine</h2>
+  <p><em>A high-performance athletic conditioning and fitness tracking mobile application.</em></p>
+</div>
+
 * **Frontend:** Built with **React Native** and **Expo Router** using **TypeScript**.
 * **Backend:** Leverages **Supabase** for secure user authentication and real-time database management.
 * **Goal:** Providing athletes with streamlined metric calculators, conditioning configurations, and clean data visualization to conquer their training targets.
 
-## 💻 About Me
+---
 
-- 🖥️ Beginner Cybersecurity Analyst
-- 🔭 Building software solutions to enhance security workflow and penetration testing pipelines
-- 🌱 Enthusiastic about **automation**, **optimizing infrastructure**, and **enhancing application safety**.
-- 📫 Reach me at **jake.cybersec@outlook.com**
+### 📂 About Me & Key Skills
 
-### 🛠️ Key Skills
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👨‍💻 Who I Am</h3>
+      <ul>
+        <li><strong>Beginner Cybersecurity Analyst</strong> looking to secure digital landscapes.</li>
+        <li>Building software solutions to enhance security workflows and penetration testing pipelines.</li>
+        <li>Enthusiastic about automation, optimizing infrastructure, and enhancing application safety.</li>
+      </ul>
+      <p>📬 <strong>Reach me at:</strong> <a href="mailto:jake.cybersec@outlook.com">jake.cybersec@outlook.com</a></p>
+    </td>
+    <td width="35%" valign="top" align="center">
+      <h3>📸 Contact / Profile</h3>
+      <!-- DRAG AND DROP YOUR PROFESSIONAL PHOTO DIRECTLY UNDERNEATH THIS LINE IF YOU WANT TO ADD ONE -->
+      <img src="https://icons8.com" width="140px" alt="Developer Avatar"/>
+    </td>
+  </tr>
+</table>
 
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-00599C)](#)
-[![Lua](https://img.shields.io/badge/Lua-1E75B6)](#)
-[![Automation](https://img.shields.io/badge/Automation-E63946)](#)
-[![.NET](https://img.shields.io/badge/.NET-6C2DC7)](#)
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF)](#)
-[![JSON](https://img.shields.io/badge/JSON-F69C00)](#)
+---
 
-### 🧠 Interests
+### 🛠️ Tech Stack & Skills
 
-[![Cyber Security](https://img.shields.io/badge/Cyber%20Security-121212)](#)
-[![Business Development](https://img.shields.io/badge/Business%20Development-0077B5)](#)
-[![Automation](https://img.shields.io/badge/Automation-E63946)](#)
-[![AI](https://img.shields.io/badge/AI-14A76C)](#)
-[![Graphic Design](https://img.shields.io/badge/Graphic%20Design-673AB7)](#)
+#### 💻 Core Programming & Scripting
+![C#](https://shields.io)
+![Lua](https://shields.io)
+![TypeScript](https://shields.io)
+
+#### ⚙️ Frameworks & Automation
+![.NET](https://shields.io)
+![React Native](https://shields.io)
+![Supabase](https://shields.io)
+
+#### 🎨 Design & Tools
+![Photoshop](https://shields.io)
+
+---
+
+### 🧠 Core Interests
+`Cyber Security` `Business Development` `Automation` `AI` `Graphic Design`
