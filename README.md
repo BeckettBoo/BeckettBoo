@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./banner.png" alt="Jake's GitHub Banner" width="100%">
-</p>
+![Uploading banner.png…]()
+
 
 <h1 align="center">👋 Hey There, I'm Jake</h1>
 
