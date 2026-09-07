@@ -1,4 +1,5 @@
-<img width="1792" height="592" alt="image_57fd0af3" src="https://github.com/user-attachments/assets/f86e2903-1a58-4662-9865-a93509e5d2cd" />
+<img width="2170" height="725" alt="ChatGPT Image Sep 7, 2026, 12_48_00 PM" src="https://github.com/user-attachments/assets/396d3e83-ee33-4699-8146-e391baa383e1" />
+
 
 
 <h1 align="center">🌌 Hey There, I'm Jake</h1>
