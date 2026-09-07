@@ -43,9 +43,18 @@
 * Custom configuration environments designed to rapidly stand up clean Linux developer installations.
 * Lightweight automation pipelines built to handle system log audits and vulnerability tracking.
 
+
+
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
+
+<p align="center">
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</p>
+
+<br>
 
 * **Virtualization & DevOps:** `Proxmox VE` • `Docker` • `Linux (Ubuntu/Debian)` • `Bash Scripting`
 * **Core Languages:** `TypeScript` • `C#` • `Lua` • `HTML/CSS` • `Python`
