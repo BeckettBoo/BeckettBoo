@@ -49,17 +49,13 @@
 
 ### 🛠️ Tech Stack & Ecosystem
 
-<p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</p>
+| 🌌 Virtualization & DevOps | 💻 Core Languages |
+| :--- | :--- |
+| `Proxmox VE` • `Docker` • `Linux (Ubuntu/Debian)` • `Bash Scripting` | `TypeScript` • `C#` • `Lua` • `HTML/CSS` • `Python` |
 
-<br>
-
-* **Virtualization & DevOps:** `Proxmox VE` • `Docker` • `Linux (Ubuntu/Debian)` • `Bash Scripting`
-* **Core Languages:** `TypeScript` • `C#` • `Lua` • `HTML/CSS` • `Python`
-* **Frameworks & Databases:** `React Native` • `Expo Router` • `.NET Core` • `Supabase (PostgreSQL)`
-* **Design & Prototyping:** `Adobe Photoshop` • `UI/UX Design` • `Vector Asset Engineering`
+| ⚙️ Frameworks & Databases | 🎨 Design & Prototyping |
+| :--- | :--- |
+| `React Native` • `Expo Router` • `.NET Core` • `Supabase (PostgreSQL)` | `Adobe Photoshop` • `UI/UX Design` • `Vector Asset Engineering` |
 
 ---
 
@@ -73,3 +69,4 @@
 ### 🧠 Core Focus Dimensions
 
 `Cyber Security` `Proxmox Virtualization` `Workflow Automation` `DevOps Systems` `Graphic Design`
+
